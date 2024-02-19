@@ -22,3 +22,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
+
+<details>
+  <summary>
+    <div style="display: inline-block;"><h2>도서 검색 API</h2></div>
+  </summary>
+
+후보로 선택한 도서 검색 API는 다음과 같습니다.
+
+- **[Naver API](https://developers.naver.com/docs/serviceapi/search/book/book.md#%EC%B1%85-%EA%B2%80%EC%83%89-%EA%B2%B0%EA%B3%BC-%EC%A1%B0%ED%9A%8C)**
+- **[Kakao API](https://developers.kakao.com/docs/latest/ko/daum-search/dev-guide#search-book)**
+- **[Aladin API](https://blog.aladin.co.kr/openapi/6695306)**
+
+각각의 API의 특징은 다음과 같습니다.
+</details>
